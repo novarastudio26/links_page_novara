@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" fill="none">
+  <ellipse cx="60" cy="93" rx="36" ry="4" fill="#1769FF" opacity=".07"/>
+  <!-- Artboard / canvas -->
+  <rect x="16" y="10" width="88" height="72" rx="10" fill="#E8EEFF" stroke="#1769FF" stroke-width="1.5"/>
+  <!-- Inner canvas -->
+  <rect x="24" y="18" width="72" height="56" rx="4" fill="#fff"/>
+  <!-- Pen tool path -->
+  <path d="M36 58 Q48 24 60 50 Q72 76 84 34" stroke="#1769FF" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <!-- Anchor dots -->
+  <circle cx="36" cy="58" r="3" fill="#1769FF"/>
+  <circle cx="60" cy="50" r="3" fill="#1769FF" opacity=".5"/>
+  <circle cx="84" cy="34" r="3" fill="#1769FF"/>
+  <!-- Bē badge -->
+  <circle cx="96" cy="18" r="12" fill="#1769FF"/>
+  <text x="96" y="23" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">Bē</text>
+</svg>
